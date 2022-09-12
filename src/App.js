@@ -18,7 +18,6 @@ function App() {
         >
           Learn React
         </a>
-        <p> Nothing but react </p>
       </header>
     </div>
   );
