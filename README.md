@@ -39,10 +39,10 @@ Have NodeJS installed and follow the next steps
 
 ## Authors
 
-👤 **Michael Mesfin**
+👤 **Ely Cheick Maaloum**
 
 - GitHub: [@maaloum](https://github.com/maaloum)
-- LinkedIn: [MICHAEL MESFIN](https://www.linkedin.com/in/ely-cheikh-maaloum-075a79135/)
+- LinkedIn: [Ely Cheick](https://www.linkedin.com/in/ely-cheikh-maaloum-075a79135/)
 
 ## 🤝 Contributing
 
