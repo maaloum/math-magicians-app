@@ -1,7 +1,12 @@
 import React from 'react';
 import './claculator.css';
 
-class Calculator extends React.PureComponent {
+class Calculator extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
+
   render() {
     return (
       <div className="claculator">
