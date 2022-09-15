@@ -39,7 +39,7 @@ class Calculator extends React.Component {
           <button onClick={this.handleChange} type="submit" id="allClear" className="btn"> AC </button>
           <button onClick={this.handleChange} type="submit" id="switchSign" className="btn"> +/- </button>
           <button onClick={this.handleChange} type="submit" id="percent" className="btn "> % </button>
-          <button onClick={this.handleChange} type="submit" id="division" className="operation"> / </button>
+          <button onClick={this.handleChange} type="submit" id="division" className="operation"> ÷ </button>
         </div>
         <div className="panel">
           <button onClick={this.handleChange} type="submit" id="btn7" className="btn"> 7 </button>
