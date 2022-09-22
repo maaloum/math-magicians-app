@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+  align-items: center;
+  height: 80px;
+  background-color: #fff;
+  box-shadow: inset 1px 1px 1px 100px rgba(215, 79, 79, 0.1);
+
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+    width: 20%;
+    list-style-type: none;
+    text-transform: none;
+
+    .navbarItem {
+      color: #000;
+      text-decoration: none;
+      margin-right: 10px;
+
+      span {
+        color: rgb(6, 6, 6);
+        margin-left: 10px;
+        font-size: large;
+      }
+    }
+  }
+}
